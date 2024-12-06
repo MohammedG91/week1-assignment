@@ -23,3 +23,15 @@ body {
   height: 1000px;
   background-color: rgb(101, 22, 205);
 }
+
+.page3 {
+  width: 1500px;
+  height: 1000px;
+  background-color: rgb(178, 163, 199);
+}
+
+.page4 {
+  width: 1500px;
+  height: 1000px;
+  background-color: rgb(53, 171, 104);
+}
